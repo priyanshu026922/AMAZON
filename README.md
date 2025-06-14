@@ -1,4 +1,4 @@
-![Banner](file:///C:/Users/BIT/Desktop/AMAZON/screenshot.png)
+![Banner](screenshot.png)
 
 
 
